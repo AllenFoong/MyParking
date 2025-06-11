@@ -7,3 +7,16 @@ The purpose of this system was to demonstrate real-world applications of core so
 
 # 2. System Logic
 The Smart Parking System operates through a web-based interface where users can register, log in, and book available parking slots by selecting a preferred date and time. The system dynamically checks the database to ensure that only available time slots are shown, and it prevents double bookings by disabling already reserved times. Bookings are stored in a MySQL database and tied to each user’s account, allowing them to view or cancel their latest reservation. Admins can manage slots and monitor all bookings. The system integrates PHP for backend logic, JavaScript for interactivity, and MySQL for data storage, ensuring a smooth, real-time booking experience.
+
+
+## ✅ Features
+
+- ✅ **User Registration & Login**
+- ✅ **Dashboard with Slot Display**
+- ✅ **Date and Time Selection for Booking**
+- ✅ **Slot Availability Check**
+- ✅ **Cancel Booking (Latest Only)**
+- ✅ **User Booking History**
+- ✅ **Admin Dashboard to View All Bookings**
+- ✅ **Interactive UI with Time Buttons**
+- ✅ **Image Support for Parking Slots**
